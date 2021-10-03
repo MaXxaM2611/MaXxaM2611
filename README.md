@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Massimo Aka MaXxaM</h1>
 <h3 align="center">When i want i'm a developer.</h3>
 
-- 🔭 I’m currently working on [Siemens Industry Software S.r.l.](https://www.sw.siemens.com/en-US/)
+- 🔭 I’m currently working for [Siemens Industry Software S.r.l.](https://www.sw.siemens.com/en-US/)
 
 - 📎 Owner of [FenixHub Community](https://discord.gg/7d6YbQQVms)
 
