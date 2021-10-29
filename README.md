@@ -5,7 +5,7 @@
 
 - 📎 Owner of [FenixHub Community](https://discord.gg/7d6YbQQVms)
 
-- 💻 Known languages: **C# | Lua | JS | React | Next | Prisma | ecc...**
+- 💻 Known languages: **C# | Lua | JS | React | Next | Prisma | etc...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
