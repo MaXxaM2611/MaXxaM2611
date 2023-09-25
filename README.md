@@ -4,9 +4,11 @@
 - 🔭 I’m currently working for [Siemens Industry Software S.r.l.](https://www.sw.siemens.com/en-US/)
 
 - 📎 Owner of [FenixHub Community](https://discord.gg/7d6YbQQVms)
-- 📎 My Project: [Fenix Match League (Best Server EU :))](https://discord.gg/fml)
+- 📎 My Old Project: [Fenix Match League (I sold the project)](https://discord.gg/fml)
+- 📎 My New Project: [RX Network](https://discord.gg/rxnetwork) (soon...)
+- ⭐ For the best anticheat available on fivem: [FiveGuard]([https://discord.gg/rxacademy](https://store.fiveguard.ac/))
 
-- 💻 Known languages: **C# | Lua | JS | React | Next | Prisma | etc...**
+- 💻 Known languages: **C# | C++| TS | JS | Lua  etc...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
