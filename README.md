@@ -6,7 +6,7 @@
 - 📎 Owner of [FenixHub Community](https://discord.gg/7d6YbQQVms)
 - 📎 My Old Project: [Fenix Match League (I sold the project)](https://discord.gg/fml)
 - 📎 My New Project: [RX Network](https://discord.gg/rxnetwork) (soon...)
-- ⭐ For the best anticheat available on fivem: [FiveGuard]([https://discord.gg/rxacademy](https://store.fiveguard.ac/))
+- ⭐ For the best anticheat available on fivem: [FiveGuard](https://store.fiveguard.ac/)
 
 - 💻 Known languages: **C# | C++| TS | JS | Lua  etc...**
 
