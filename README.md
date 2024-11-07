@@ -7,7 +7,8 @@
 
 - 📎 My Old Project 1: [Fenix Match League (I sold the project)](https://discord.gg/fnx)
 <a href="https://i.imgur.com/O49cWAl.png" target="_blank">
-  <img src="https://i.imgur.com/O49cWAl.png" alt="Project Image" height="300" width="300"> - 2021-2022-2023 
+  <img src="https://i.imgur.com/O49cWAl.png" alt="Project Image" height="300" width="300">
+   2021-2022-2023 
 </a>
 
 - 📎 My Old Project 2: [FML (I sold the project)](https://discord.gg/fml)
