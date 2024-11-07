@@ -6,7 +6,9 @@
 - 🔭 I’m currently working on [Abb](https://new.abb.com/ie)
 
 - 📎 My Old Project 1: [Fenix Match League (I sold the project)](https://discord.gg/fnx)
-<img src="https://i.imgur.com/O49cWAl.png" alt="Suck" height="300" width="400"> - 2021/2022/2023 
+<p align="center">
+    <img src="https://i.imgur.com/O49cWAl.png" alt="Suck" height="300" width="400">
+</p>
 
 - 📎 My Old Project 2: [FML (I sold the project)](https://discord.gg/fml)
 
