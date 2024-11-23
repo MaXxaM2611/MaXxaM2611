@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">When i want i'm a developer.</h3>m/ie)-->
+<h3 align="center">When i want i'm a developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxxam0511&label=Profile%20views&color=0e75b6&style=flat" alt="maxxam0511" /> </p>
 
 <!--- 🔭 I’m currently working on [Abb](https://new.abb.com/ie)-->
