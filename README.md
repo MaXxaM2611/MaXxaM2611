@@ -7,7 +7,7 @@
 
 - [Fenix Development](https://discord.gg/7d6YbQQVms) **2019 - 2025**
 - [Fenix Match League | Fenix PVP (I sold the project)](https://discord.gg/fnx) **2021-2023**
-- [FML (I sold the project)](https://discord.gg/fmlpvp) ** 2024**
+- [FML (I sold the project)](https://discord.gg/fmlpvp) **2024**
 - [???](https://discord.gg/???) **2025**
 
 
