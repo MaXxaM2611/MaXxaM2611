@@ -1,7 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxxam0511&label=Profile%20views&color=0e75b6&style=flat" alt="maxxam0511" /> </p>
 
 ## Hi 👋, I'm Max
-###### BackEnd Developer
+###### BackEnd Developer 
+###### c# and java goat
 
 #### Project:
 
