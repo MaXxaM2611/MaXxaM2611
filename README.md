@@ -2,14 +2,13 @@
 
 ## Hi 👋, I'm Max
 ###### BackEnd Developer 
-###### c# and java goat
 
-#### Project:
+#### Project (owner and dev):
 
 - [Fenix Development](https://discord.gg/7d6YbQQVms) **2019 - 2025**
 - [Fenix Match League | Fenix PVP (I sold the project)](https://discord.gg/fnx) **2021-2023**
-- [FML (I sold the project)](https://discord.gg/fmlpvp) **2024**
-- [???](https://discord.gg/???) **2025**
+- [FML (I sold the project)](https://discord.gg/fmlpvp) **2024** 
+- [Remix RP](https://discord.gg/remix) **2025**
 
 
 ### Languages and Tools
@@ -35,4 +34,6 @@
 <a href="https://discord.com/users/589882974401462332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="maxxam._" height="30" width="40" /></a>
 <a href="https://instagram.com/maxxam._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxxam._" height="30" width="40" /></a>
 </p>
+
+###### c# and java goat
 
