@@ -5,7 +5,7 @@
 
 #### Project (owner and dev):
 - FiveM
-  - [Fenix Development](https://discord.gg/7d6YbQQVms) **2019 - 2025**
+  - [Fenix Development](https://discord.gg/7d6YbQQVms) **2019 - 2026**
   - [Fenix Match League | Fenix PVP (I sold the project)](https://discord.gg/fnx) **2021-2023**
   - [Remix RP](https://discord.gg/remix) **2025**
 - RedM
