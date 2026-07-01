@@ -3,20 +3,10 @@
 ## Hi 👋, I'm Max
 ###### BackEnd Developer 
 
-#### Project (owner and dev):
-- FiveM
-  - [Fenix Development](https://discord.gg/7d6YbQQVms) **2019 - 2026**
-  - [Fenix Match League | Fenix PVP (I sold the project)](https://discord.gg/fenix) **2021-2023**
-  - [Remix RP](https://discord.gg/remix) **2025**
-- RedM
-  - [Western legends](https://discord.gg/westernlegends) **2026**
-- Other
-  - Soon
-
-
 
 ### Languages and Tools
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="30" height="30"/> 
 </p>
